@@ -50,3 +50,7 @@ hyperspy/misc/etc/test_compilers.obj
 .vscode/
 tsconfig.json
 jsconfig.json
+### Jupyter ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
